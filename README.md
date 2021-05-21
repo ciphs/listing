@@ -1,7 +1,5 @@
-# Visit Discussion tab to apply for CDF Membership
+# Visit Discussion on Discord for listing
 
-https://github.com/ciphs/cdfmembership/discussions
-
-Apply only if you have interest or curious about the proposal. 
-Some data are restricted to CDF Member only
-CDF is a baseless decentralize organization
+https://discord.gg/fEq6QeSuQh
+CORG is a baseless organization.
+Listing are free without guarantee of approval. Subject to User ratings.
